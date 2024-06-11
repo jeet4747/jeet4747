@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jeet4747
+- 👋 Hi, I’m @jeetmishra47
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning Java-script
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a project with some new new friends
 - 📫 How to reach me Contact me on instagram (@jeetmishra.47)
 
